@@ -5,11 +5,12 @@ Rocchi Sebastiano
 
 ## 📝 Titolo
 **SnapRecipt**
-"Applicazione, principalmente per Mobile, intuitiva progettata per semplificare la gestione delle spese personali.  L’utente deve semplicemente scattare una foto allo scontrino, l'applicazione legge automaticamente i dati più importanti (prodotti, importi, data, negozio) e li registra nello storico personale. Le spese vengono poi organizzate in categorie (alimentari, trasporti, tecnologia, svago, ecc.) e rappresentate graficamente in dashboard intuitive. In aggiunta, ulteriormente, l'applicazione permette di: suddividere e fare una media dei posti dove si effettuano gli acquisti, prendere note di quante volte hai visitato quella catena di negozi, la spesa media generale o in ciascuno negozio,  spesa media per ogni tipologia di acquisto (essenziali, bevande, fai da te, ecc). In questo modo, chiunque può avere in pochi secondi una panoramica chiara e aggiornata delle proprie abitudini di spesa, capire dove si concentra la maggior parte dei costi e impostare eventuali obiettivi di risparmio.  Permette di caricare anche con scontrini del carburante, calcolandoti il prezzo medio al litro del carburante che compri, e facendo autonomamente un calcolo sulla media dei prezzi successivamente ti indica dove ti conviene andare a fare rifornimento. "
+
 
 ---
 
 ## 🧾 Descrizione
+"Applicazione, principalmente per Mobile, intuitiva progettata per semplificare la gestione delle spese personali.  L’utente deve semplicemente scattare una foto allo scontrino, l'applicazione legge automaticamente i dati più importanti (prodotti, importi, data, negozio) e li registra nello storico personale. Le spese vengono poi organizzate in categorie (alimentari, trasporti, tecnologia, svago, ecc.) e rappresentate graficamente in dashboard intuitive. In aggiunta, ulteriormente, l'applicazione permette di: suddividere e fare una media dei posti dove si effettuano gli acquisti, prendere note di quante volte hai visitato quella catena di negozi, la spesa media generale o in ciascuno negozio,  spesa media per ogni tipologia di acquisto (essenziali, bevande, fai da te, ecc). In questo modo, chiunque può avere in pochi secondi una panoramica chiara e aggiornata delle proprie abitudini di spesa, capire dove si concentra la maggior parte dei costi e impostare eventuali obiettivi di risparmio.  Permette di caricare anche con scontrini del carburante, calcolandoti il prezzo medio al litro del carburante che compri, e facendo autonomamente un calcolo sulla media dei prezzi successivamente ti indica dove ti conviene andare a fare rifornimento. "
 
 ---
 
