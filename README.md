@@ -16,6 +16,7 @@ Applicazione, principalmente per Mobile, intuitiva progettata per semplificare l
 
 ##  Requisiti
 https://docs.google.com/document/d/1ELJOXAarJwcKGZOurH4SUZAqd_K6-lxAI0j-e78njjU/edit?usp=sharing
+<img width="670" height="509" alt="immagine" src="https://github.com/user-attachments/assets/b0b29af4-d8b9-4599-b656-2ac510dc563a" />
 
 
 ---
@@ -33,15 +34,10 @@ Studenti e Giovani lavoratori, Famiglie, Adulti e Giovani Anziani
 
 ##  Competitors
 <img width="973" height="343" alt="immagine" src="https://github.com/user-attachments/assets/36a79aa7-f249-4bd4-8266-ca62a2ff15fb" />
+
 Expensify Inc. (Expensify)  
 Zoho Corporation Pvt. Ltd. (Zoho Expense)  
-Saldo Apps OU (Receipt Scanner: Easy Expense, Scontrini di Spese)  
-Kibo (AI Expense Tracker OCR Scanner)  
 Emburse Inc. (Emburse Spend)  
-Radix by InfoMinds (Radix+ Expenses)  
-EcosAgile s.r.l. (Expense / eExpense)  
-TeamSystem S.p.A. (Reviso Spese)  
-Busta Scontrini (Busta Scontrini Archivio Spese, sviluppatore su App Store)  
 Fast Budget (Fast Budget App, società italiana)  
 Spendee (Spendee App s.r.o.)
 
@@ -62,4 +58,9 @@ Autenticazione e privacy.
 ---
 
 ##  Diagramma yuml
-https://yuml.me/cf9356ce.svg
+https://yuml.me/f7e99cf9.svg
+<img width="1855" height="1799" alt="f7e99cf9" src="https://github.com/user-attachments/assets/0f6e82ea-0290-4a1c-adde-35e8caff931e" />
+
+
+
+
