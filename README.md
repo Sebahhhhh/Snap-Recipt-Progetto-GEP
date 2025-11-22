@@ -61,6 +61,11 @@ Autenticazione e privacy.
 https://yuml.me/f7e99cf9.svg
 <img width="1855" height="1799" alt="f7e99cf9" src="https://github.com/user-attachments/assets/0f6e82ea-0290-4a1c-adde-35e8caff931e" />
 
+---
+
+##  Implementazione 
+https://pocket-receipt-wiz.lovable.app
+
 
 
 
