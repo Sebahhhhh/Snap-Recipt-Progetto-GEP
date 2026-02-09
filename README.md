@@ -1,12 +1,26 @@
 
 # Project discontinued: 
-### new project:
+---
+  
+### New project:
 https://github.com/Sebahhhhh/MySociety/tree/main
+  
+---
+  
 
+  
+  
+  
+              
 ---
----
----
-### Progetto Precedente
+
+    
+  
+**Progetto precedete:**  
+  
+  
+   
+  
 ---
 
 
