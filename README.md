@@ -47,7 +47,7 @@ Cloud Storage.
 
 ## Elevator Pitch:
 
-[![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=file-text&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
+[![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
 
 ## WBS   
 **1.0 PIANIFICAZIONE (1 sett.)**  
