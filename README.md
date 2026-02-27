@@ -43,6 +43,7 @@ https://yuml.me/69b9d2e2.svg
 
 ## Elevator Pitch:
 https://telegra.ph/Elevator-Pitch---MySociety-02-09
+![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=file-text&logoColor=white)
 
 ## WBS   
 **1.0 PIANIFICAZIONE (1 sett.)**  
