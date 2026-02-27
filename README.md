@@ -59,8 +59,8 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
    ‎ ‎ &nbsp; &nbsp; 3.3 Integrazioni (pagamenti, notifiche)  
   ‎ ‎  &nbsp; &nbsp;3.4 Deliverable: MVP (Prodotto Minimo Funzionante)  
 **4.0 TEST + LANCIO (2 sett.)**  
-    &nbsp;‎ ‎ &nbsp;ㅤㅤㅤㅤㅤㅤㅤ 4.1 Test Unitari + Integraziㅤone  
-    ‎&nbsp; ‎&nbsp; ㅤㅤㅤㅤㅤ 4.2 Beta Testing + Bug Fix  
+    &nbsp;‎ ‎ &nbsp; 4.1 Test Unitari + Integraziㅤone  
+    ‎&nbsp; ‎&nbsp;  4.2 Beta Testing + Bug Fix  
     ‎ &nbsp;‎ &nbsp; 4.3 Deploy App Store + Dominio  
    ‎ ‎ &nbsp; &nbsp; 4.4 Deliverable: App Live  
 **5.0 CHIUSURA**  
