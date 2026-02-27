@@ -27,7 +27,8 @@ Autenticazione.
 Cloud Storage.  
   
 # Requisiti: 
-https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing
+
+[![Requisiti](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=file-text&logoColor=white)](https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing)
 <img width="682" height="721" alt="immagine" src="https://github.com/user-attachments/assets/bfe2d356-4ebb-481f-9082-1b1cca473522" />
 
 
@@ -35,7 +36,8 @@ https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/
 <img width="807" height="325" alt="immagine" src="https://github.com/user-attachments/assets/86bc102e-dac2-4415-8b38-d2406ec006ff" />
 
 # Use Case Diagram:
-https://yuml.me/69b9d2e2.svg
+
+[![Requisiti](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=file-text&logoColor=white)](https://yuml.me/69b9d2e2.svg)
 <img width="2075" height="1273" alt="69b9d2e2" src="https://github.com/user-attachments/assets/0ee68ed4-4b68-4494-a6fb-8a0624115682" />
 
 ## Implementazione:
