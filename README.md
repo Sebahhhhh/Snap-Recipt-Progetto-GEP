@@ -1,96 +1,100 @@
 
-# Project discontinued: 
-    
-### New project:
-https://github.com/Sebahhhhh/MySociety/tree/main
+
+# Titolo: 
+### MySociety
+
+# Descrizione: 
+mySociety è un’applicazione mobile innovativa pensata per rendere semplice e intuitiva la gestione delle associazioni e società di ogni tipo, dalle realtà sportive e culturali fino ai gruppi scolastici, musicali o di volontariato. L’app si basa su un sistema di registrazione flessibile, pensato sia per i singoli utenti sia per chi amministra una società. Ogni persona, una volta creata la propria utenza, può iscriversi liberamente a più società contemporaneamente, semplicemente inserendo un codice o seguendo un link di invito fornito dai responsabili. In questo modo, l’utente può passare facilmente da un gruppo all’altro, mantenendo sempre tutto organizzato all’interno della stessa applicazione.
+All’interno di ciascuna società, l’utente può consultare la bacheca digitale, dove vengono pubblicati avvisi e comunicazioni ufficiali, oltre a poter visualizzare il calendario con eventi, riunioni o attività programmate. Tutto è pensato per favorire trasparenza, ordine e partecipazione attiva. Ogni membro può conoscere i ruoli degli altri iscritti, scoprire i prossimi appuntamenti e restare costantemente aggiornato sulle decisioni o le novità del proprio gruppo.
+Parallelamente, i gestori o amministratori delle società dispongono di un vero e proprio pannello gestionale, attraverso il quale possono organizzare l’intera struttura dell’associazione in maniera chiara e gerarchica. Possono inserire nuovi membri, creare sottosezioni o sottosocietà autonome (ad esempio per diverse squadre o gruppi interni), impostare ruoli e permessi personalizzati, inviare comunicazioni e avere accesso a un gestionale facile e intuitivo per tenere traccia delle varie quote associative di ogni associato, controllando pagamenti e scadenze in tempo reale. La piattaforma, inoltre, consente di far circolare automaticamente gli annunci generali verso tutte le sottosocietà collegate, garantendo una comunicazione coerente e immediata lungo tutta la catena organizzativa.
+Per creare una Associazione/Società bisogna sottoiscrevere un abbonamento Mensile o Annuale dove in base al numero di associati, sottoassociazioni e plugin con funzionalità avanzate.
+
+# Problema: 
+Nasce per risolvere la gestione frammentata e confusa tipica di molte associazioni che ancora si affidano a Excel, chat whatsapp per comunicazioni con gli associatri e email separate per organizzare iscrizioni, quote e comunicazioni. Questi metodi portano facilmente a errori, ritardi, dati non aggiornati e perdita di tempo.
+L’app centralizza tutto in un unico ambiente digitale accessibile da smartphone: soci, pagamenti, eventi, annunci e sottosocietà vengono gestiti in modo ordinato e condiviso. In questo modo le associazioni migliorano la comunicazione interna, risparmiano tempo e mantengono sempre sotto controllo la propria organizzazione.
+
+# Target: 
+Società e Associazioni di piccole, medie dimensioni. Soprattutto società sportive, ma utile anche a circoli e comitati e federazioni che hanno esigenze di gestire in maniera comoda quote, annunci, calendario ed eventi.
+
+# Tagline:
+"La Società sempre sotto il tuo controllo"
+
+# Tecnologie Utilizzate:
+Frontend Mobile.  
+Backend.  
+Database.   
+Autenticazione.  
+Cloud Storage.  
   
----
-  
- .  
- .   
- .  
- .             
- .  
- .  
- .   
- .  
- .             
- . 
- 
----
-**Progetto precedete:**  
+# Requisiti: 
+https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing
+<img width="682" height="721" alt="immagine" src="https://github.com/user-attachments/assets/bfe2d356-4ebb-481f-9082-1b1cca473522" />
 
 
----
+# Competitors:
+<img width="807" height="325" alt="immagine" src="https://github.com/user-attachments/assets/86bc102e-dac2-4415-8b38-d2406ec006ff" />
 
+# Use Case Diagram:
+https://yuml.me/69b9d2e2.svg
+<img width="2075" height="1273" alt="69b9d2e2" src="https://github.com/user-attachments/assets/0ee68ed4-4b68-4494-a6fb-8a0624115682" />
 
-#  SnapRecipt
-Rocchi Sebastiano  
+## Implementazione:
+https://society-sync-platform.lovable.app
 
----
+## Elevator Pitch:
+https://telegra.ph/Elevator-Pitch---MySociety-02-09
 
-##  Titolo
-**SnapRecipt**
+## WBS   
+**1.0 PIANIFICAZIONE (1 sett.)**  
+   ‎ &nbsp;‎ &nbsp;  1.1 Requisiti + Use Case  
+   ‎ &nbsp;‎ &nbsp;  1.2 Diagramma Gantt + Risorse  
+   ‎ ‎&nbsp; &nbsp;  1.3 Deliverable: Piano completo Progetto  
+**2.0 DESIGN (2 sett.)**  
+   ‎ &nbsp;‎ &nbsp;  2.1 Database   
+  ‎ ‎&nbsp;  &nbsp;  2.2 Flusso Utente   
+  ‎ ‎ &nbsp; &nbsp;  2.3 Deliverable: Prototipo UI/UX (con figma)  
+**3.0 SVILUPPO (5 sett.)**  
+   ‎ &nbsp;‎ &nbsp;  3.1 Backend   
+   ‎ ‎ &nbsp; &nbsp; 3.2 Frontend Mobile  
+   ‎ ‎ &nbsp; &nbsp; 3.3 Integrazioni (pagamenti, notifiche)  
+  ‎ ‎  &nbsp; &nbsp;3.4 Deliverable: MVP (Prodotto Minimo Funzionante)  
+**4.0 TEST + LANCIO (2 sett.)**  
+    &nbsp;‎ ‎ &nbsp;ㅤㅤㅤㅤㅤㅤㅤ 4.1 Test Unitari + Integraziㅤone  
+    ‎&nbsp; ‎&nbsp; ㅤㅤㅤㅤㅤ 4.2 Beta Testing + Bug Fix  
+    ‎ &nbsp;‎ &nbsp; 4.3 Deploy App Store + Dominio  
+   ‎ ‎ &nbsp; &nbsp; 4.4 Deliverable: App Live  
+**5.0 CHIUSURA**  
+   &nbsp;‎ ‎ &nbsp;  5.1 Pubblicità
+   
+## Cronoprogramma 
 
+```mermaid
+gantt
+title WBS - Cronoprogramma Progetto (9 settimane)
+dateFormat  YYYY-MM-DD
+axisFormat  W%W
 
----
+section 1.0 PIANIFICAZIONE
+Requisiti + Use Case          :active,  p1a, 2025-01-09, 4d
+Diagramma Gantt + Risorse     :         p1b, 2025-01-11, 3d
+DELIVERABLE - Piano Progetto  :crit,    p1d, 2025-01-14, 1d
 
-##  Descrizione
-Applicazione, principalmente per Mobile, intuitiva progettata per semplificare la gestione delle spese personali.  L’utente deve semplicemente scattare una foto allo scontrino, l'applicazione legge automaticamente i dati più importanti (prodotti, importi, data, negozio) e li registra nello storico personale. Le spese vengono poi organizzate in categorie (alimentari, trasporti, tecnologia, svago, ecc.) e rappresentate graficamente in dashboard intuitive. In aggiunta, ulteriormente, l'applicazione permette di: suddividere e fare una media dei posti dove si effettuano gli acquisti, prendere note di quante volte hai visitato quella catena di negozi, la spesa media generale o in ciascuno negozio,  spesa media per ogni tipologia di acquisto (essenziali, bevande, fai da te, ecc). In questo modo, chiunque può avere in pochi secondi una panoramica chiara e aggiornata delle proprie abitudini di spesa, capire dove si concentra la maggior parte dei costi e impostare eventuali obiettivi di risparmio.  Permette di caricare anche con scontrini del carburante, calcolandoti il prezzo medio al litro del carburante che compri, e facendo autonomamente un calcolo sulla media dei prezzi successivamente ti indica dove ti conviene andare a fare rifornimento. 
+section 2.0 DESIGN
+Database                      :active,  p2a, 2025-01-15, 5d
+Flusso Utente                 :         p2b, 2025-01-16, 5d
+DELIVERABLE - Prototipo Figma :crit,    p2d, 2025-01-21, 1d
 
----
+section 3.0 SVILUPPO
+Backend                       :active,  p3a, 2025-01-22, 15d
+Frontend Mobile               :         p3b, 2025-02-01, 15d
+Integrazioni pagamenti e push :         p3c, 2025-02-09, 10d
+DELIVERABLE - MVP             :crit,    p3d, 2025-02-19, 1d
 
-##  Requisiti
-https://docs.google.com/document/d/1ELJOXAarJwcKGZOurH4SUZAqd_K6-lxAI0j-e78njjU/edit?usp=sharing
-<img width="670" height="509" alt="immagine" src="https://github.com/user-attachments/assets/b0b29af4-d8b9-4599-b656-2ac510dc563a" />
+section 4.0 TEST + LANCIO
+Test Unitari + Integrazione   :active,  p4a, 2025-02-20, 5d
+Beta Testing + Bug Fix        :         p4b, 2025-02-23, 5d
+Deploy App Store + Dominio    :         p4c, 2025-02-26, 4d
+DELIVERABLE - App Live        :crit,    p4d, 2025-02-30, 1d
 
-
----
-
-##  Problema
-Risolve il problema della mancanza di consapevolezza sulle risparmio e sulle spese quotidiane.  
-Ulteriormente risolve il problema sulla poca semplicità di utilizzo di dispositivi per la tracciabilità delle spese: Excel è complicato per maggior parte degli utenti, molte app di finanza sono troppo complesse o richiedono il collegamento al conto bancario (che spesso non ispira fiducia).
-
----
-
-##  Target
-Studenti e Giovani lavoratori, Famiglie, Adulti e Giovani Anziani  
-
----
-
-##  Competitors
-<img width="973" height="343" alt="immagine" src="https://github.com/user-attachments/assets/36a79aa7-f249-4bd4-8266-ca62a2ff15fb" />
-
-Expensify Inc. (Expensify)  
-Zoho Corporation Pvt. Ltd. (Zoho Expense)  
-Emburse Inc. (Emburse Spend)  
-Fast Budget (Fast Budget App, società italiana)  
-Spendee (Spendee App s.r.o.)
-
----
-
-##  Tagline
-Spese e risparmio in una sola App  
-
----
-
-##  Tecnologie
-Mobile App;  
-Riconoscimento scontrini (OCR);  
-Database e gestione dati;  
-Dashboard e statistiche;  
-Autenticazione e privacy.  
-
----
-
-##  Diagramma yuml
-https://yuml.me/f7e99cf9.svg
-<img width="1855" height="1799" alt="f7e99cf9" src="https://github.com/user-attachments/assets/0f6e82ea-0290-4a1c-adde-35e8caff931e" />
-
----
-
-##  Implementazione
-https://pocket-receipt-wiz.lovable.app
-
-
-
+section 5.0 CHIUSURA
+Test Finali       :done,    p5a, 2025-02-31, 3d
