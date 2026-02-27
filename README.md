@@ -39,7 +39,8 @@ https://yuml.me/69b9d2e2.svg
 <img width="2075" height="1273" alt="69b9d2e2" src="https://github.com/user-attachments/assets/0ee68ed4-4b68-4494-a6fb-8a0624115682" />
 
 ## Implementazione:
-https://society-sync-platform.lovable.app
+[![Implementazione](https://img.shields.io/badge/Implementazione-blue?style=for-the-badge)](https://society-sync-platform.lovable.app)
+
 
 ## Elevator Pitch:
 https://telegra.ph/Elevator-Pitch---MySociety-02-09
@@ -65,9 +66,6 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
    ‎ ‎ &nbsp; &nbsp; 4.4 Deliverable: App Live  
 **5.0 CHIUSURA**  
    &nbsp;‎ ‎ &nbsp;  5.1 Pubblicità
-
-
-[![Implementazione](https://img.shields.io/badge/Implementazione-blue?style=for-the-badge)](https://tuo-link-qui.com)
    
 ## Cronoprogramma 
 
