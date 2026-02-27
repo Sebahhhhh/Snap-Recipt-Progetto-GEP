@@ -67,11 +67,7 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
    &nbsp;‎ ‎ &nbsp;  5.1 Pubblicità
 
 
-   <a href="https://example.com" style="text-decoration:none;">
-  <button style="padding:10px 20px; background-color:#007bff; color:white; border:none; border-radius:5px;">
-    Clicca qui
-  </button>
-</a>
+[![Implementazione](https://img.shields.io/badge/Implementazione-blue?style=for-the-badge)](https://tuo-link-qui.com)
    
 ## Cronoprogramma 
 
